@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of kyrne/signature.** Not for installation: use [Packagist](https://packagist.org/packages/kyrne/signature) or the [upstream repository](https://github.com/KyrneDev/signature).
 
-**0** versions archived · Latest: [`0.1.1`](https://github.com/flarchive/kyrne-signature/tree/archive/v0.1.1) · Flarum: `^0.1.0-beta.15`
+**2** versions archived · Latest: [`0.1.1`](https://github.com/flarchive/kyrne-signature/tree/archive/v0.1.1) · Flarum: `^0.1.0-beta.15`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2021-02-20 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/kyrne-signature/tree/archive/v0.1.0) |
+| `0.1.1` | 2021-02-25 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/kyrne-signature/tree/archive/v0.1.1) |
 
 Catalog entry: [packages/kyrne-signature.json](https://github.com/flarchive/archive-index/blob/main/packages/kyrne-signature.json)
 
